@@ -1,6 +1,5 @@
 size: 100px
 weight: 20kg
 color: red
-a color: green
 
 #this is only an example config file.
