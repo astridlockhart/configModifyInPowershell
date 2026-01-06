@@ -1,4 +1,5 @@
   #in line parameters format: configModify.ps1 <config file> <configuration> <new setting>
+  #v1.0
 param(
     [Parameter()]
     [string]$sourceFile = "Heya!", #the config file we want to modify.
