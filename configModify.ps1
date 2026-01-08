@@ -3,7 +3,7 @@
 
   # Might wanna take a look at this later [ ('a color: green' -split ':')[0].trim() -match '^a color$' ] this will help
   # with potential trimming of a string!
-  # NOTE: In a prodection version of this script might wanna make a backup copy of the script in this previous script.
+  # TODO: In a production version of this script might wanna make a backup copy of the config file being edited just in case.
 
 param(
     [Parameter()]
